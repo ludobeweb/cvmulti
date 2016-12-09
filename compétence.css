@@ -4,3 +4,31 @@
 		.couleur{
 			background-color:#F9F296;
 		}
+		ul{
+			padding-left:0; 
+			font-family:Arial, sans-serif; 
+			font-size:18px;
+		}
+			/* puce enlevé; police changé en arial sans-serif; plus grosse ecriture */
+		h2{
+			border-style:inset;
+			color:teal;
+			border-top-color:blue;
+			border-right-color:#F5FFFA;
+			border-left-color:#F5FFFA;
+			border-bottom-color:red;
+			/* bordure effet 3d , couleur changé, text aligné à droite et rotation du mot de 60 degrés */
+		}
+		.papier{
+
+			 border-radius: 25px;
+    			 background: url("https://image.freepik.com/photos-libre/papier-froisse_2947545.jpg");
+    			 background-position: left top;
+    			 background-repeat: repeat;
+    			 padding: 10px;
+    			 width: 200px;
+                   	 height: 150px; /*ajout d'une image style papier froissé sur texte */
+}
+
+
+		

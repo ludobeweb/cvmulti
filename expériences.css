@@ -1,0 +1,21 @@
+		ul{
+			padding-left:0; 
+			font-family:Arial, sans-serif; 
+			font-size:18px;
+		}
+			/* puce enlevé; police changé en arial sans-serif; plus grosse ecriture */
+		p{
+			border-left:6px; 
+			background-color:grey;
+			border-style:dotted;
+			color:EOFFFF;
+			font-size:25px;
+			font-variant:small-caps;
+			direction:rtl;
+			
+			/* bordure gauche de 6px, fond de couleur gris , bordure en point rond , ecriture agrandit par font-size*/ 
+		}
+		
+		.expcouleur{
+			background-color:#FBE8D3;
+		} /* couleur de fond */
