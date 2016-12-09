@@ -1,0 +1,53 @@
+
+		ul{
+			padding-left:0; 
+			font-family:Arial, sans-serif; 
+			font-size:18px;
+			
+			/* puce enlevé; police changé en arial sans-serif; plus grosse ecriture et lettre espacé */
+			
+			}
+		h2{
+			border-style:inset;
+			color:teal;
+			border-top-color:blue;
+			border-right-color:#F5FFFA;
+			border-left-color:#F5FFFA;
+			border-bottom-color:red;
+			/* bordure effet 3d , couleur changé, text aligné à droite et rotation du mot de 60 degrés */
+			}
+		p{
+			border-left:6px; 
+			background-color:grey;
+			border-style:dotted;
+			color:EOFFFF;
+			font-size:25px;
+			font-variant:small-caps;
+			direction:rtl;
+			
+			/* bordure gauche de 6px, fond de couleur gris , bordure en point rond , ecriture agrandit par font-size*/ 
+			}
+		.lecentre{
+			text-align:center;
+			height:50px;
+			}/* texte au centre et taille du texte de 5 px */
+		h4{
+			text-align:center;
+			font-size:30px;
+			position:absolute;
+			top: 500px; 
+			} /* texte centré , ecriture agrandit , position changé grace à absolute et top*/
+		
+		h3{
+			margin-top: 200px;
+			}/* marge du haut changé */
+		.post{
+			position:absolute;
+			top:600px;
+			} /*position changé de 300px grace a absolute*/
+
+		.comp{
+			margin-left:125px
+			} /* marge de 125px*/
+		
+			
