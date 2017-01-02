@@ -1,0 +1,21 @@
+body {
+  background-color: #00BFFF; }
+
+section {
+  text-align: center; }
+
+li {
+  list-style-type: none;
+  font-size: 25px; }
+
+h3 {
+  font-size: 30px; }
+
+p {
+  font-size: 30px; }
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: #E6E6FA; } }
+
+/*# sourceMappingURL=exp%C3%A9riences.css.map */

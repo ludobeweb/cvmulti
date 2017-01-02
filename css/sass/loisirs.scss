@@ -1,0 +1,19 @@
+			body{
+		background-color: #00BFFF;
+		}
+	article{
+		text-align: center;
+		}
+	li{
+		list-style-type: none;
+		font-size: 25px;
+		}
+	h2{
+		font-size: 40px;
+		}
+	
+	@media screen and (max-width: 500px){
+	body{
+		background-color: #E6E6FA;
+		}
+	}

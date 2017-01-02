@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAC,IAAI;EACH,gBAAgB,EAAE,OAAO;;AAE1B,OAAO;EACN,UAAU,EAAE,MAAM;;AAEnB,EAAE;EACD,eAAe,EAAE,IAAI;;AAEtB,CAAC;EACA,SAAS,EAAE,IAAI;;AAEhB,EAAE;EACD,SAAS,EAAE,IAAI;;AAEhB,EAAE;EACD,SAAS,EAAE,IAAI;;AAGhB,oCAAoC;EACpC,IAAI;IACH,gBAAgB,EAAE,OAAO",
+"sources": ["sass/diplomes.scss"],
+"names": [],
+"file": "diplomes.css"
+}
